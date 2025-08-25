@@ -86,4 +86,4 @@ Currently exploring **full-stack web development** while also advancing in **cyb
 
 ---
 
-⭐ "Keep learning, keep building, and stay curious!"
+⭐ "Never Stop Learning Because Life Never Stops Teaching"
