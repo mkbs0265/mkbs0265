@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Sudhindra 👋</h1>
-<h3 align="center">B.Tech CSE Student | Cybersecurity Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">B.Tech CSE Student | Cybersecurity Enthusiast | Full-Stack Developer 👨‍💻</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4CAF50&center=true&width=650&lines=Cybersecurity+%7C+Full+Stack+Developer;500%2B+Problems+Solved+on+LeetCode;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨 About Me
 I am a **final-year B.Tech CSE student** passionate about **Cybersecurity, Software Development, and AI**.  
 I have solved **500+ problems on LeetCode**, demonstrating strong problem-solving skills.  
 Currently exploring **full-stack web development** while also advancing in **cybersecurity practices**.
@@ -17,7 +17,7 @@ Currently exploring **full-stack web development** while also advancing in **cyb
 
 ## 🛠 Tech Stack & Tools
 
-## 🚀 Languages:
+## ⌨️ Languages:
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
@@ -37,25 +37,6 @@ Currently exploring **full-stack web development** while also advancing in **cyb
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
 </p>
-
-## 🛡 Cybersecurity Tools
-<p align="left">
-  <!-- Wireshark -->
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/wireshark.png" alt="Wireshark" title="Wireshark" width="45" height="45"/>
-  </a>
-  
-  <!-- Nmap -->
-  <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-nmap-hacking-and-phishing-flat-flat-juicy-fish.png" alt="Nmap" title="Nmap" width="45" height="45"/>
-  </a>
-  
-  <!-- Nessus -->
-  <a href="https://www.tenable.com/products/nessus" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-tenable-worlds-leading-vulnerability-scanner-and-software-solution-logo-shadow-tal-revivo.png" alt="Nessus" title="Nessus" width="45" height="45"/>
-  </a>
-</p>
-
 
 ### ⚙️ Tools & Platforms
 <p align="left">
