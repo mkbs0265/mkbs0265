@@ -41,12 +41,16 @@ Currently exploring **full-stack web development** while also advancing in **cyb
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
 </p>
 
-## 🔐 Cybersecurity Skills:
+## 🛡 Cybersecurity Tools
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="vulnerability" width="45" height="45"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135716.png" alt="pentesting" width="45" height="45"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" alt="steganography" width="45" height="45"/>
+  <!-- Wireshark -->
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" title="Wireshark" width="45" height="45"/>
+  <!-- Nmap -->
+  <img src="https://cdn.simpleicons.org/nmap/4682B4" alt="Nmap" title="Nmap" width="45" height="45"/>
+  <!-- Nessus (by Tenable) -->
+  <img src="https://cdn.simpleicons.org/tenable/01B3E3" alt="Nessus (Tenable)" title="Nessus (Tenable)" width="45" height="45"/>
 </p>
+
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
