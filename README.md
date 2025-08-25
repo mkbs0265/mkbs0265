@@ -1,8 +1,12 @@
 # 👨‍💻 Sudhindra | Cybersecurity & Software Development Enthusiast  
 
 Welcome to my GitHub profile!  
-I am a final-year **B.Tech Computer Science student** passionate about **Cybersecurity, Software Development, and AI**.  
+I am a final-year **B.Tech Computer Science student** passionate about **Cybersecurity, Software Development, and AIML**.  
 With a strong foundation in **Python, SQL, and Full-Stack Development**, I enjoy solving real-world problems through technology and continuously learning new tools.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4CAF50&center=true&width=550&lines=Always Learning;Web+CyberSecurity+Cloud;Leetcode Enthusiast+Proficient Coder" alt="Typing SVG" />
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mkbs0265&label=Profile%20Views&color=0e75b6&style=for-the-badge)  
 
